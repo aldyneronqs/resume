@@ -1,0 +1,46 @@
+/* src/Resume.css */
+.resume-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial, sans-serif';
+  }
+  
+  .header-section {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .header-section h1 {
+    font-size: 36px;
+  }
+  
+  .profile-summary, .experience-section, .education-section, .skills-section {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .skills-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .skills-list li {
+    display: inline-block;
+    background-color: #f4f4f4;
+    padding: 5px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .footer-section {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
